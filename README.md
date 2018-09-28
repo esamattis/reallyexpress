@@ -3,6 +3,8 @@ Work in progress. Currently you will be most interested in
 
 # Really Express
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/epeli/reallyexpress.svg)](https://greenkeeper.io/)
+
 Really Express is a small wrapper for [Express][] web framework. It focuses on
 bringing extraordinary features of [Node.js][] to Express. That is mainly
 **code sharing between the server and the browser** and **integrating
